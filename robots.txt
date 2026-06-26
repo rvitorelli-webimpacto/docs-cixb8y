@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-lsuyr9.cuansalam.sbs/sitemap.xml
